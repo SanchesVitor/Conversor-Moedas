@@ -1,0 +1,19 @@
+@media (max-width: 48rem) {
+  main {
+    padding: 1.6rem;
+    gap: 3.2rem;
+  }
+
+  section h2 {
+    font-size: 1.6rem;
+  }
+
+  .conversor .wrapper {
+    flex-direction: column;
+    gap: .8rem;
+  }
+
+  .money-wrapper {
+    width: 100%;
+  }
+}
